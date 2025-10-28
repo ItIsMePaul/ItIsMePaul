@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ItIsMePaul/ItIsMePaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=D84040&height=250&section=header&text=It%20is%20me,%20Paul%20👨‍💻&fontSize=80&fontColor=EEEEEE)
