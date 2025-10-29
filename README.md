@@ -1,5 +1,4 @@
-<table style="border: 3px solid #D84040; border-radius: 15px; width: 100%;">
-<tr><td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D84040&height=10&section=header" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D84040&height=250&section=header&text=It%20is%20me,%20Paul&fontSize=80&fontColor=EEEEEE" width="100%">
 
@@ -109,12 +108,14 @@
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/user4343mG/)
-[![Email](https://img.shields.io/badge/Email-D84040?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD)
+[![Email](https://img.shields.io/badge/Email-D84040?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulyurchyshyn@gmail.com)
+
+<!-- [![Discord](https://img.shields.io/badge/Discord-itismepaul-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SERVER_ID)
+    I will add server insteaad of this
+-->
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D84040&height=120&section=footer" width="100%">
 
-</td></tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D84040&height=10&section=footer" width="100%">
